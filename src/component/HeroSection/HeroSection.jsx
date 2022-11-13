@@ -6,7 +6,7 @@ function HeroSection() {
     <div className='main_container_hero'  id="top">
           <div className="hero_content">
               <div className="hero_title">EL-FI HOMES</div>
-              <div className="hero_tagLine">Join us in our journey to reduce your energy bill and carbon footprint by onsite renewable
+              <div className="hero_tagLine">Join us in our journey to reduce your carbon footprint by onsite renewable
                   energy generation and energy efficiency improvement.
               </div>
           </div>
